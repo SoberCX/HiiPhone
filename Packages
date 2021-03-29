@@ -38,7 +38,7 @@ Name: BackgrounderAction for CCSupport
 Package: cercube5pp
 Version: 1.0.0.2
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
+Maintainer: HiJi
 Installed-Size: 69
 Depends: mobilesubstrate, firmware (>= 10.0), cercube | me.alfhaily.cercube
 Conflicts: net.hollr2099.cercube4pp
@@ -50,7 +50,7 @@ SHA256: f1106ba912609b02ec9f04d6f239a9b0ff53d3fc630773483a2c932c35984e9a
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/depiction/web/cercube5pp.html
 Description: 去掉 Cercube 5 for YouTube.广告
-Author: SarahH12099 <409774743@qq.com>
+Author: HiJi 
 Depiction: https://sileo-cydia.github.io/depiction/web/cercube5pp.html
 Icon: https://sileo-cydia.github.io/assets/cercube5pp/icon.png
 Moderndepiction: https://sileo-cydia.github.io/depiction/native/cercube5pp.json
@@ -76,7 +76,7 @@ Name: MDausch Utils
 Package: cn.yttxcs.libiarrays
 Version: 1.0.9-beta-11
 Architecture: iphoneos-arm
-Maintainer: IArrays  <409774743@qq.com>
+Maintainer: HiJi
 Depends: firmware (>=11.0)
 Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays
 Filename: ./debs/libiarrays_1.0.9-beta-11.deb
@@ -87,7 +87,7 @@ SHA256: 35d89aee75a25e95b992263a4dab0befccc2b6519a9c1971a3b4627090b2220e
 Section: 依赖
 Homepage: https://sileo-cydia.github.io
 Description: 只有Iarrays产品才应使用。这是关闭的图书馆，没有支持这一包装。
-Author: IArrays  <409774743@qq.com>
+Author: HiJi
 Depiction: https://yttxcs.cn/depiction/html/libiarrays.html
 Icon: https://yttxcs.cn/assets/libiarrays/icon.png
 Moderndepiction: https://yttxcs.cn/depiction/sileo/libiarrays.json
@@ -765,7 +765,7 @@ Name: sud0
 Package: com.synnyg.backupaz3pojie
 Version: 1.5
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
+Maintainer: HiJi
 Depends: cn.yttxcs.backupaz3
 Filename: ./debs/com.synnyg.backupaz3pojie_1.5.deb
 Size: 746
@@ -775,7 +775,7 @@ SHA256: e2b42886af42684892511d1e3ee5999afd682ad21479703ca4ca626f134715ad
 Section: 其他
 Homepage: https://yttxcs.cn/depiction/html/com.synnyg.backupaz3pojie.html
 Description: backupaz3破解补丁
-Author: 他是个疯子 <409774743@qq.com>
+Author: HiJi
 Depiction: https://yttxcs.cn/depiction/html/com.synnyg.backupaz3pojie.html
 Icon: https://yttxcs.cn/assets/com.synnyg.backupaz3pojie/icon.png
 Moderndepiction: https://yttxcs.cn/depiction/sileo/com.synnyg.backupaz3pojie.json
@@ -1169,7 +1169,7 @@ Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
 Package: libiarrays
 Version: 1.0.9-beta-11
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
+Maintainer: HiJi
 Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays
 Filename: ./debs/libiarrays1.0.9-beta-11.deb
 Size: 288400
@@ -1179,7 +1179,7 @@ SHA256: dbc10355e2a357e9b6be85ed6fad8530b0190aa319d44390b7dfab784b8b5ded
 Section: Development
 Homepage: https://sileo-cydia.github.io/depiction/web/libiarrays.html
 Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
-Author: IArrays  <409774743@qq.com>
+Author: HiJi
 Depiction: https://sileo-cydia.github.io/depiction/web/libiarrays.html
 Icon: https://sileo-cydia.github.io/assets/libiarrays/icon.png
 Moderndepiction: https://sileo-cydia.github.io/depiction/native/libiarrays.json
